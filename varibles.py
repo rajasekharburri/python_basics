@@ -19,7 +19,7 @@ comment
 num_servers = 10 # Integer
 print(num_servers)
 
-CONST_PI = 3.14 # Float
+CONST_PI = 3.194 # Float
 print(type(CONST_PI))
 
 num_servers = 15
@@ -37,8 +37,11 @@ b = 20
 total = a + b # 30
 diff = a - b # -10
 mult = a * b # 200
+
 division = b / a # 2.0
 print(division)
+
+
 integer_division = b // a # 2
 print(integer_division)
 remainder = b % a # 0
